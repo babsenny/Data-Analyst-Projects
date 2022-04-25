@@ -1,4 +1,6 @@
-# DATA-ANALYST MINI-PROJECT USING SQL This a repository that contains SQL scripts in extracting relevant information from a company's Database.
+# DATA-ANALYST MINI-PROJECT USING SQL 
+
+This a repository that contains SQL scripts in extracting relevant information from a company's Database.
 
 #SQL TOPICS COVERED
 
