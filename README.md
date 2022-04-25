@@ -2,7 +2,8 @@
 
 This a repository that contains SQL scripts in extracting relevant information from a company's Database.
 
-#SQL TOPICS COVERED
+
+**#SQL TOPICS COVERED**
 
 SELECT/SELECT DISTINCT, ALIAS
 
@@ -18,7 +19,7 @@ Aggregations: MAX, MIN, AVG, SUM, COUNT, COUNT DISTINCT
 
 Joining: INNER JOIN, SELF JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, UNION
 
-#CONTACT
+**#CONTACT**
 
 Email: babafemieniola@gmail.com
 
