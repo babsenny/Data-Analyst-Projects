@@ -4,6 +4,7 @@ This a repository that contains SQL scripts in extracting relevant information f
 
 
 **#SQL TOPICS COVERED**
+
 SELECT/SELECT DISTINCT, ALIAS
 
 Filtering: WHERE, AND, OR, NOT, HAVING, BETWEEN, IN, LIKE, Wildcards, ANY, ALL
