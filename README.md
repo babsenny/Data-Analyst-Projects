@@ -1,6 +1,7 @@
-# DATA-ANALYST MINI-PROJECT USING SQL 
+# Portfolio Projects
 
-This a repository that contains SQL scripts in extracting relevant information from a company's Database.
+This is a repository that contains SQL Data Analysis Projects I have worked on.
+
 
 
 **#SQL TOPICS COVERED**
@@ -19,10 +20,17 @@ Aggregations: MAX, MIN, AVG, SUM, COUNT, COUNT DISTINCT
 
 Joining: INNER JOIN, SELF JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, UNION
 
+DDL COMMANDS: ALTER TABLE, DROP COLUMN
+
+DML COMMANDS: DELETE, INSERT, UPDATE
+
+
+
+
 **#CONTACT**
 
 Email: babafemieniola@gmail.com
 
 linkedln: https://www.linkedin.com/in/eniola-babafemi-796721191/
 
-REFERENCE: https://github.com/brittany-city
+
