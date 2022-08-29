@@ -1,6 +1,5 @@
 # Portfolio Projects
 
-This is a repository that contains SQL Data Analysis Projects I have worked on.
 
 
 
